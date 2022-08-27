@@ -1,0 +1,23 @@
+mvn install -s settings.xml
+set configuration - choose tomcat then webapp 
+then chagne heap size
+to get into mysql sudo mysql -u root
+create database bmslocal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for client 
+clone the repo 
+npm i
+npm run dev 
